@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Fozil",
+    "surname": "Fozilov",
+    "age": 12
+  },
+  {
+    "id": 2,
+    "name": "Alish",
+    "surname": "Alishov",
+    "age": 20
+  },
+  {
+    "id": 3,
+    "name": "Gulbashakar",
+    "surname": "Gulbashakarov",
+    "age": 30
+  },
+  {
+    "id": 4,
+    "name": "Husan",
+    "surname": "Husanov",
+    "age": 12
+  },
+  {
+    "id": 5,
+    "name": "Hasan",
+    "surname": "Hasanov",
+    "age": 34
+  },
+  {
+    "id": 6,
+    "name": "Mahmud",
+    "surname": "Mahmudov",
+    "age": 14
+  },
+  {
+    "id": 7,
+    "name": "Nodir",
+    "surname": "Nodirov",
+    "age": 54
+  },
+  {
+    "id": 8,
+    "name": "Kozim",
+    "surname": "Kozimov",
+    "age": 23
+  },
+  {
+    "id": 9,
+    "name": "Muhammad",
+    "surname": "Muhammadov",
+    "age": 22
+  },
+  {
+    "id": 10,
+    "name": "Mirkomil",
+    "surname": "Mirkomilov",
+    "age": 33
+  },
+  {
+    "id": 11,
+    "name": "Sunnat",
+    "surname": "Sunnatov",
+    "age": 44
+  },
+  {
+    "id": 12,
+    "name": "Behruz",
+    "surname": "Behruzov",
+    "age": 55
+  },
+  {
+    "id": 13,
+    "name": "Jovoq",
+    "surname": "Jovoqov",
+    "age": 43
+  },
+  {
+    "id": 14,
+    "name": "Ikrom",
+    "surname": "Ikromov",
+    "age": 21
+  }
+]
