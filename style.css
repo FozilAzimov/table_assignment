@@ -6,13 +6,15 @@
 
 .container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   margin-top: 50px;
 }
 
 table {
   width: 40%;
   border-collapse: collapse;
+  margin-top: 50px;
 }
 
 table,
